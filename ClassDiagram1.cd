@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DPlayer.Artist">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Artist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPlayer.Album">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Album.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPlayer.Outputable">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Outputable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPlayer.Titleable">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Titleable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPlayer.Track">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAIBAAACAAAAAA=</HashCode>
+      <FileName>Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
